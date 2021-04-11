@@ -1,0 +1,83 @@
+.container{
+    width:400px;
+    background-color: black;
+    border-radius: 30px;;
+    height:auto;
+    padding:20px 20px;
+    margin:30px auto;
+}
+#textinput{
+    width:100%;
+    outline:none;
+    border:2px solid blueviolet;
+    border-radius: 10px;
+    height:50px;
+    font-size: 20px;;
+    padding-left: 10px;;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#Addbutton{
+    margin-top: 10px;
+    width:100%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: blueviolet;
+    color:white;
+    font-size: 40px;;
+    outline:none;
+    transition: 0.5s;
+
+}
+#clearAll{
+    margin-top: 10px;
+    width:100%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: blueviolet;
+    color:white;
+    font-size: 40px;;
+    outline:none;
+    transition: 0.5s;
+
+}
+#Addbutton:hover{
+    background-color: white;
+    color:black;
+    cursor: pointer;
+
+}
+#clearAll:hover{
+    background-color: white;
+    color:black;
+    cursor: pointer;
+
+}
+.mypara{
+    color:white;
+    font-size: 20px;;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+#mybutton{
+    width:100%;;
+    background-color: red;
+    outline:none;
+    color:white;
+    border-radius: 20px;;
+   
+    font-size: 20px;;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin:auto;
+}
+#editlist{
+    width:100%;;
+    background-color: red;
+    outline:none;
+    color:white;
+    border-radius: 20px;;
+   
+    font-size: 20px;;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin:auto;
+    margin-top:10px;
+
+}
+
